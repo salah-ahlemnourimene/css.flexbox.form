@@ -12,7 +12,7 @@ Ce projet est un formulaire HTML/CSS responsive avec la possibilité de basculer
 
 | Mode Clair | Mode Sombre |
 |------------|-------------|
-| ![Clair](screenshots/light.png.jpeg) | ![Sombre](screenshots/dark.png.jpeg) |
+| ![Clair](screenshots/light.png) | ![Sombre](screenshots/dark.png) |
 
 ## ⚙️ Fonctionnalités
 
