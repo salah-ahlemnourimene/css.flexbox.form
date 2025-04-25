@@ -10,10 +10,13 @@ Ce projet est un formulaire HTML/CSS responsive avec la possibilité de basculer
 
 ## 📸 Aperçu
 
-| Mode Clair | Mode Sombre |
-|------------|-------------|
-| [Clair]([light mode](https://github.com/user-attachments/assets/f4da2feb-3124-4315-b7df-56eeae96b857)|
-[Sombre](![dark mode](https://github.com/user-attachments/assets/079d6868-de8e-4ba7-b72f-0c337b24669c) |
+Mode Clair
+![light mode](https://github.com/user-attachments/assets/90cc5f31-0ca4-404f-960f-2dbf2af99f47)
+
+Mode Sombre
+![dark mode](https://github.com/user-attachments/assets/a107a9d1-f1ff-481e-ae58-0bceab49e129)
+
+
 
 ## ⚙️ Fonctionnalités
 
