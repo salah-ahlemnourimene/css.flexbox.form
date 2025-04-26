@@ -31,14 +31,14 @@ Mode Sombre
 - CSS
 
 
-## 🚀 Déploiement
-[aperçu](http://127.0.0.1:5500/exo2/)
+##  Demo
+https://salah-ahlemnourimene.github.io/css.flexbox.form/
 
 ## 🙋‍♂️ Auteur
 
 Projet réalisé dans le cadre du module **CSS Flexbox & Concepts avancés**  
 **L2 Informatique** – Développement d’application Web  
-Par : Salah Ahlem Nour Imene 
+Par : Salah Ahlem Nour Imene G4
 
 Prof : Dr A. Bengueddach
 
